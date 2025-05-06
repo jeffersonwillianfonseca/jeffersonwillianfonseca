@@ -13,7 +13,7 @@
     * Gerência de projetos e arquitetura de vários softwares
 
 * Detalhes Profissionais: 
-    * Estou trabalhando com Java para backend na infra estrutrua do pix desde 2024, tendo também atuado com um ecm dentro do banco entre 2020/2023.
+    * Estou trabalhando com Java para backend na infra-estrutura do pix desde 2024, tendo também atuado com o ecm dentro do banco entre 2020/2023.
     * Tenho amplo conhecimento em arquitetura serveless e alguns serviços aws. 
     * Tenho conhecimento em várias linguagens de programação
     * Tenho experiência com os bancos de dados
